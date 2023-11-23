@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/Richard-Mensah?tab=repositories)
-[![Articles](https://img.shields.io/badge/MEDIUM-Articles-purple?logo=Medium)](https://medium.com/@richmensah1997)
-<a href="mailto:richmensah1997@gmail.com">
+[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/Bernice17)
+<a href="#">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/> </a> [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bernice-fafali-dogbey-76143a1a3/)
-    [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-Contact-brightgreen?style=for-the-badge&logo=whatsapp)](https://wa.me/+233240567894) 
+    [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-Contact-brightgreen?style=for-the-badge&logo=whatsapp)](https://wa.me/+233248514285) 
 
 
 <!--
@@ -34,9 +33,9 @@ Here are some ideas to get you started:
 
 ![ezgif com-crop (4)](https://github.com/ikoghoemmanuell/ikoghoemmanuell/assets/102419217/bcd5d802-dc77-4994-86a6-f5ccb46cc145)
 
-<h1 align="">Hello 👋, I'm RICHARD MENSAH </h1>
-<h2 alighn= ""> ALX Data Sciene Student Funded by MasterCard </h2>
-<h3 align=""> I am passationate Data Scientist with interest in Machine Learning and using</h3>
+<h1 align="">Hello 👋, I'm Bernice </h1>
+<h2 alighn= ""> ALX Data Sciene Student under theFunded by MasterCard </h2>
+<h3 align=""> I am passionate Data Scientist with interest in Machine Learning and using</h3>
 <h3 align=""> 
 
 🌱Also, I am Organizational and Industrial Psychology student with Business Development skill and I aim to apply psychological principles and strategies to enhance workplace productivity, efficiency, and employee well-being, boosting your organization's performance.
