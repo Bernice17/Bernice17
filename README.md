@@ -1,6 +1,6 @@
 # 👩🏾‍💻 Bernice Fafali Dogbey
 
-**Data Analyst | Educator | Educational Technology Consultant**
+**Data Analyst | Educator | Educational Technology**
 
 📍 Accra, Ghana  
 📧 ..........@gmail.com | 📱 +233 20 639 7472  
